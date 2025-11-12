@@ -45,7 +45,7 @@ This project demonstrates a complete full-stack implementation with scalable arc
 
 ### ✅ Clone the repository
 ```bash
-git clone https://github.com/yourusername/tomato.git
+git clone https://github.com/Haripriya826/Food_app.git
 cd tomato
 ```
 ## Install dependencies
